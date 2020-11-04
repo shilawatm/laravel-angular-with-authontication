@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "backend"
+		},
+		{
+			"path": "backend1"
 		}
 	],
 	"settings": {}
